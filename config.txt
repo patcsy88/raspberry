@@ -1,12 +1,12 @@
 # Tell the DVFS algorithm to increase voltage by this amount (in µV; default 0).
 # IMPORTANT: See note below
-over_voltage_delta=50000
+#over_voltage_delta=50000
 
 # Set the Arm A76 core frequency (in MHz; default 2400).
-arm_freq=3000
+#arm_freq=3000
 
 # Set the VideoCore VII core frequency (in MHz; default 800).
-gpu_freq=1000
+#gpu_freq=1000
 
 # If not use NVME as the boot drive, uncomment
 #dtparam=nvme
